@@ -1,0 +1,23 @@
+*Meta data for emotional news video*
+
+Video_Continuous_Valence_data.xlsx:
+
+Each column after Video Name is the mean valence rating across subjects on a scale of 0 (lowest) to 50 (highest) across all subjects at each 0.5s time point in the video.
+The maximum video length is 52 seconds, and time points are marked as NaN where videos are shorter.
+
+
+Video_Summary_data.xlsx:
+
+URL: link to download the video clip using the script Download_Video_clips.R
+Start Time in URL: the point in seconds where the tested video starts in the downloaded clip
+Duration: How long the tested video lasts after the start time in seconds
+Valence Rating: 1 = most negative, 9 = most positive
+Arousal Rating: 1 = lowest, 9 = highest
+Coherence: 1 = Yes (video is easy to follow), 2 = No
+Familiarity: 1 =  Yes, I have seen this exact news footage before, 2 = Yes, I am familiar with the news story, but I have not seen this footage, 3 = No, I have not seen or heard of this news story before
+Vividness: 1 = not at all vividly, 9 = extremely vividly
+Duration estimate: scale of 10-60 seconds
+
+Mean = mean rating across subjects for that video
+SD = standard deviation across subjects for that video
+RT = reaction time (seconds)

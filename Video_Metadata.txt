@@ -1,9 +1,10 @@
-*Meta data for emotional news video*
+*Meta data for emotional news videos*
 
 Video_Continuous_Valence_data.xlsx:
 
-Each column after Video Name is the mean valence rating across subjects on a scale of 0 (lowest) to 50 (highest) at each 0.5s time point in the video.
+Each column after 'Video Name' is the mean valence rating across subjects on a continuous scale of 1 (lowest) to 9 (highest) at each 0.5s time point in the video.
 The maximum video length is 52 seconds, and time points are marked as NaN where videos are shorter.
+Note that the rating marker started at a random point along the scale on each trial, so the mean at the beginning across subjects and/or videos should be ~5.
 
 
 Video_Summary_data.xlsx:

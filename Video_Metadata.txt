@@ -1,5 +1,9 @@
 *Meta data for emotional news videos*
 
+
+Videos are sorted by Mean Summary Valence Rating across subjects from low (most negative) to high (most positive).
+
+
 Video_Continuous_Valence_data.xlsx:
 
 Each column after 'Video Name' is the mean valence rating across subjects on a continuous scale of 1 (lowest) to 9 (highest) at each 0.5s time point in the video.

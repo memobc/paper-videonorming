@@ -1,9 +1,10 @@
 # The Paper
 This repository includes scripts and data for the following paper:
 
-Samide, R., Cooper, R.A., & Ritchey, M. (add info)
+Samide, R., Cooper, R.A., & Ritchey, M. (in prep). Investigating the dynamics of emotional memory: Development of a news video stimulus database.
 
 # Abstract
+Emotional experiences are known to be both perceived and remembered differently from non-emotional experiences, often leading to heightened encoding of salient visual details and subjectively vivid recollection. The vast majority of previous studies have used static images to investigate how emotional event content modulates cognition, yet natural events unfold over time. Therefore, little is known about how emotion dynamically modulates continuous experience. Here, we report a norming study wherein we develop a new stimulus set of 126 emotionally negative, positive, and neutral videos depicting real-life news events. Participants continuously rated the valence of each video during its presentation and judged the overall emotional intensity and valence at the end of each video. In a subsequent memory test, participants reported how vividly they could recall the video details and estimated each video’s duration. We report data on the affective qualities and memorability of each video. The results replicate the well established effect that emotional experiences are more vividly remembered than non-emotional experiences. Importantly, this novel stimulus set will facilitate research into the temporal dynamics of emotional processing and memory.
 
 # Resources
 To download the video clips, use the script `Download_Video_clips.R`. 

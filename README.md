@@ -15,7 +15,7 @@ To download the video clips, use the script `Download_Video_clips.R`.
 
 Summary measures for each video can be found in `Video_Summary_Data.xlsx` and continuous valence ratings at each 0.5s time point can be found in `Video_Continuous_Valence_Data.xlsx`. `Video_Metadata.txt` provides a description of the measures in each of these .xlsx files.
 
-The psychtoolbox script to run the paradigm - `video_norm_paradigm.m` - is also included.
+The MATLAB psychtoolbox script to run the paradigm - `video_norm_paradigm.m` - is also included, which loads the stimuli specified in `VideoOrders.mat`.
 
 # Comments?
 Please direct any comments to Maureen Ritchey, maureen.ritchey at bc.edu. Please feel free to use these stimuli and data, but unfortunately we cannot provide support for you to adapt them for your experiments.
